@@ -2,7 +2,7 @@
 
 NovaQR is a powerful and customizable QR code generator designed for businesses and individuals to create high-quality QR codes effortlessly. This document provides detailed instructions on installation, features, usage, and troubleshooting for the NovaQR application.
 
-![NovaQR Logo](a50a74b3-88f9-4937-ba0c-670d111e371a-1_all_21781.webp)
+![NovaQR Logo](/a50a74b3-88f9-4937-ba0c-670d111e371a-1_all_21781.webp)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -108,4 +108,5 @@ For support or inquiries, please reach out to:
 ---
 
 Thank you for using NovaQR! We hope this guide helps you make the most of our QR code generator. If you have any further questions or need assistance, please feel free to contact us.
+
 ```
