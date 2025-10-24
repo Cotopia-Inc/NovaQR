@@ -2,8 +2,6 @@
 
 NovaQR is a powerful and customizable QR code generator designed for businesses, developers, and distributors looking to create unique, high-quality QR codes effortlessly. With features such as logo integration, color customization, and real-time previews, NovaQR is the perfect tool for marketing, event management, and personal use.
 
-![NovaQR Logo](a50a74b3-88f9-4937-ba0c-670d111e371a-1_all_21781.webp)
-
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
@@ -36,7 +34,7 @@ NovaQR is a powerful and customizable QR code generator designed for businesses,
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/novaqr.git
+   git clone https://github.com/Cotopia-Inc/NovaQR
    cd novaqr
    ```
 
